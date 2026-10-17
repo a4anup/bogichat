@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "BogiChat",
+    "slug": "bogichat",
+    "scheme": "bogichat",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "icon": "./assets/brand-logo.png",
+    "splash": {"image": "./assets/brand-logo.png", "resizeMode": "contain", "backgroundColor": "#070B1B"},
+    "ios": {"supportsTablet": true, "bundleIdentifier": "com.example.bogichat"},
+    "android": {"package": "com.example.bogichat", "adaptiveIcon": {"foregroundImage": "./assets/brand-logo.png", "backgroundColor": "#070B1B"}},
+    "web": {"name": "BogiChat"},
+    "plugins": [],
+    "extra": {"prototype": true}
+  }
+}
